@@ -3,7 +3,7 @@
 The project contains:
 * complete git
 * nodejs installer to any version and architecture
-* runConfig bat file to setup the path
+
 
 ## How to use
 * Download the project 
@@ -11,4 +11,6 @@ The project contains:
 * Choose option 2 to install
   * Provide node version to be installed eg. 6.0.0
   * Provider architecture x86 or x64
+  
+And finally double click on run.bat  
   
